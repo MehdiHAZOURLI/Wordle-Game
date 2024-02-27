@@ -4,7 +4,7 @@ Wordle is a word guessing game that challenges players to find a secret word by 
 
 ## Installation
 
-- For Windows: Download `jeu_Windows` folder and execute `play.vat` to play the game directly.
+- For Windows: Download `jeu_Windows` folder and execute `play.bat` to play the game directly.
 - For Linux: Download `jeu_Linux` folder then execute the command to launch the game :
 -  `java --module-path ./javafx-sdk-21/lib --add-modules javafx.controls,javafx.graphics,javafx.fxml,javafx.media -jar app.jar`
 
