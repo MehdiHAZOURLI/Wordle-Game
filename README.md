@@ -27,9 +27,6 @@ Here are some screenshots from our Wordle game:
 ## Project Status
 Active
 
-## Note
-
-This version is not deployed as a final release.
 
 ## File Structure
 
