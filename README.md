@@ -13,9 +13,9 @@ Wordle is a word guessing game that challenges players to find a secret word by 
 If you want to enable the Indice Option in the game,install and execute Python script `word2vecmodel.py` found in the `Script` folder.
 ## Photos
 Here are some screenshots from our Wordle game:
-![Start Game](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/Ressources/photos/Wordle1.png)
-![Dark Mode](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/Ressources/photos/Wordle2.png)
-![Light Mode](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/Ressources/photos/Wordle3.png)
+![Start Game](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/main/Ressources/photos/Wordle1.png)
+![Dark Mode](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/main/Ressources/photos/Wordle2.png)
+![Light Mode](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/main/Ressources/photos/Wordle3.png)
 ## Authors
 
 - @akram_bourouina
