@@ -19,7 +19,7 @@ Here are some screenshots from our Wordle game:
 ## Authors
 
 - @akram_bourouina
-- @rayanegeyer
+- [geyer-rayane](https://github.com/geyer-rayane)
 - [@MehdiHAZOURLI](https://github.com/MehdiHAZOURLI)
 - [WajdiMejai](https://github.com/WajdiMejai)
 
