@@ -18,7 +18,7 @@ Here are some screenshots from our Wordle game:
 ![Light Mode](https://github.com/MehdiHAZOURLI/Wordle-Game/blob/main/Ressources/photos/Wordle3.png)
 ## Authors
 
-- @akram_bourouina
+- [@bourouinaakram](https://github.com/bourouinaakram)
 - [geyer-rayane](https://github.com/geyer-rayane)
 - [@MehdiHAZOURLI](https://github.com/MehdiHAZOURLI)
 - [WajdiMejai](https://github.com/WajdiMejai)
